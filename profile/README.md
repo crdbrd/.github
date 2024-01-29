@@ -1,6 +1,6 @@
 ## This is Cardboard
 
-![The Cardboard product team](team-2023-08-03.jpg)
+![The Cardboard product team](/profile/team-2023-08-03.jpg)
 
 Hi! We're the Cardboard product team 👋
 
